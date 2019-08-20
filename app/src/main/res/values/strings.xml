@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">e-Κτήμα</string>
+    <string name="registerBtn">ΚΑΤΑΧΩΡΗΣΗ</string>
+    <string name="searchBtn">ΑΝΑΖΗΤΗΣΗ</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mapBtn">ΧΑΡΤΗΣ</string>
+    <string name="satelliteBtn">ΔΟΡΥΦΟΡΟΣ</string>
+    <string name="addMarker">ΠΡΟΣΘΗΚΗ ΣΗΜΕΙΟΥ</string>
+    <string name="doneBtn">ΚΑΤΑΧΩΡΗΣΗ ΠΕΡΙΟΧΗΣ</string>
+    <string name="headerTxt">ΚΑΤΑΧΩΡΗΜΕΝΕΣ ΠΕΡΙΟΧΕΣ</string>
+    <string name="title_activity_load_area_map">Map</string>
+    <string name="deleteAreaBtn">ΔΙΑΓΡΑΦΗ ΠΕΡΙΟΧΗΣ</string>
+    <string name="directionsBtn">ΟΔΗΓΙΕΣ</string>
+    <string name="api_key">AIzaSyCMcAOdbPISW2OfjfulwN9Z3AYs1m74ZnQ</string>
+    <string name="location_name">name</string>
+    <string name="title_activity_send_email">SendEmail</string>
+    <string name="email_to">To:</string>
+    <string name="email_subject">Subject:</string>
+    <string name="email_message">Message:</string>
+    <string name="email_send">send</string>
+    <!--<string name="api_key">AIzaSyCsOoOfhGwaNaiGPDuNQNXN0njdOOf-RDg</string>-->
+</resources>

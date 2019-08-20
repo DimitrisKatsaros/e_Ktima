@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:background="?attr/colorPrimaryDark"
+    android:padding="16dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/sent_via_email"
+        android:layout_width="40dp"
+        android:layout_height="48dp"
+        android:layout_gravity="center"
+        android:background="@drawable/ic_send_whitesmoke_48dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:layout_alignParentStart="true"/>
+
+    <Button
+        android:id="@+id/import_button"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_gravity="center"
+        android:background="@drawable/ic_file_download_whitesmoke_48dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:id="@+id/export_button"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_gravity="center"
+        android:background="@drawable/ic_file_upload_whitesmoke_48dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:layout_alignParentEnd="true"/>
+
+</RelativeLayout>
